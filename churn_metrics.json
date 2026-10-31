@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.7329783187523773,
+  "roc_auc": 0.8019572282608055,
+  "label_window_days": 90,
+  "features": [
+    "Recency",
+    "Frequency",
+    "Monetary",
+    "AvgOrderValue",
+    "TenureDays"
+  ],
+  "training_rows": 5258,
+  "churn_rate_in_training": 0.5656143020159756,
+  "evaluation": "5-fold cross-validation"
+}
